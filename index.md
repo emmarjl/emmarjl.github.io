@@ -4,7 +4,7 @@ Hello, my name is Emma Lopez. I am a student at [Cal State Fullerton](http://www
 
 ## Computer Science Projects
 
-My Github page is http://github.com/emmarjl
+My Github page is http://github.com/emmarjl.
 
 ### CPSC 120
 
