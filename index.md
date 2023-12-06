@@ -4,10 +4,12 @@ Hello, my name is Emma Lopez. I am a student at [Cal State Fullerton](http://www
 
 ## Computer Science Projects
 
-My Github page is http://github.com/emmarjl.
+My Github page is http://github.com/emmarjl
 
 ### CPSC 120
 
 * Lab 4
 
-    Lab 4, part 2 was interesting to me because of the amount of if statements that went into the program. It taught me a lot about if statements and how they work, like how the order affects the outcome. The Hi-Lo game was also something I was familiar with and something that is generally pretty logical, which made the process easier for me to understand.
+    Lab 4, part 2 was one of my favorites because of the amount of if statements that went into the program. I didn't really understand if statements at first, however, by doing it over and over again in this lab, I started to become a little more familiar with how it works. This lab taught me a lot about if statements and the little details of how they are used properly. The Hi-Lo game was also something I was familiar with and something that is generally pretty logical, which made the process easier for me to understand.
+
+* Lab 
