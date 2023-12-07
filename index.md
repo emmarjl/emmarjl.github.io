@@ -16,4 +16,5 @@ My Github page is http://github.com/emmarjl.
 
     Lab 6, part 2 was another one of my favorites because it involved blackjack, which I was also previously familiar with. Understanding the context of the game made it easier to map out the program. This lab taught me how to think logically about what I was being asked to do, such as how to assign the ace card with either 1 or 11 to ensure that we get the highest score possible, which was what I had the most difficulty figuring out.
 
-* Lab 
+* Lab 9
+    Lab 9, part 1 was also a favorite of mine because of my interest in the math that was involved. I typically really like math, which made this interesting to me in terms of using a program to find the the minimum and maximum of Olympic scores and exlcluding them from the rest of the calculations. It taught me how to work through this problem mathematically first before jumping straight into programming, so that I have an outline of how I want to work through the program.
