@@ -12,4 +12,8 @@ My Github page is http://github.com/emmarjl.
 
     Lab 4, part 2 was one of my favorites because of the amount of if statements that went into the program. I didn't really understand if statements at first, however, by doing it over and over again in this lab, I started to become a little more familiar with how it works. This lab taught me a lot about if statements and the little details of how they are used properly. The Hi-Lo game was also something I was familiar with and something that is generally pretty logical, which made the process easier for me to understand.
 
+* Lab 6
+
+    Lab 6, part 2 was another one of my favorites because it involved blackjack, which I was also previously familiar with. Understanding the context of the game made it easier to map out the program. This lab taught me how to think logically about what I was being asked to do, such as how to assign the ace card with either 1 or 11 to ensure that we get the highest score possible, which was what I had the most difficulty figuring out.
+
 * Lab 
